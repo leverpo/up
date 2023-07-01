@@ -7,7 +7,7 @@
         
             "rate_comment": true,
             
-            "update_app" : true,
+            "update_app" : false,
             "activate_ads" : false,
             "activate_banner" : "on",
             "activate_inter" : "on",
