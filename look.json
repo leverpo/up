@@ -7,7 +7,7 @@
         
             "rate_comment": true,
             
-            "update_app" : false,
+            "update_app" : true,
             "activate_ads" : false,
             "activate_banner" : "on",
             "activate_inter" : "on",
@@ -285,7 +285,7 @@
             "ico" : "https://img.gamemonetize.com/xh98tvj7zzzfin2gq13xg7du9296cw69/512x384.jpg",
             "link" : "https://g.vseigru.net/10/igra-vektor/",
             "cat" : "Arcade",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
             "name" : "Parkour 3D Version 5",
             "ico" : "https://img.gamedistribution.com/1461d40bb77f48e6be72489959a1ac04-512x512.jpeg",
