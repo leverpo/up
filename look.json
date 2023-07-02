@@ -2,8 +2,8 @@
     "ads": {
         
              "comment": [
-            "Amazing Game I really love it","woow this is the best", "ohh i really like this game ", "thanks for this game i like it"
-        ],
+            "Amazing Game I really love it Only Up: Parkour 3D 😍","woow this is the best 👍", "ohh i really like this game 👏", "thanks for this game i like it"
+        ],   
         
             "rate_comment": true,
             
@@ -52,18 +52,18 @@
 
             "orientation": "landscape",
 
-            "game_name": "Revolution of Choo Choo",
-            "game_cover": "https://i.ytimg.com/vi/DOcorhLSqq4/maxresdefault.jpg",
+            "game_name": "Parkour 3D",
+            "game_cover": "https://gamingbeasts.com/wp-content/uploads/2022/02/Parkour-Simulator.jpg",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://yandex.com/games/app/144252#app-id=144252&catalog-session-uid=catalog-51c5f033-6eab-59fd-b11c-c073b51d10d4-1675562756674-fdf2&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
+            "game_link": "https://html5.gamedistribution.com/e53b05dab94c40fe846248ad3b649403/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Frun_run_3d_challenge&key=y8&value=default",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
             
             "show_notfication":true,
-            "Counter": "90000",
+            "Counter": "360000",
             "notification_title": "check our new game",
-            "notification_text": "woow super mario is here try it now",
+            "notification_text": "woow PARKOUR game is here try it now",
             "showrate" : true
 
         
@@ -176,7 +176,7 @@
             "bg" : "#3F51B5"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Food Delivery",
             "ico" : "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
@@ -190,7 +190,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Quiz",
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
