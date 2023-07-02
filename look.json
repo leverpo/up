@@ -64,7 +64,7 @@
             "Counter": "90000",
             "notification_title": "check our new game",
             "notification_text": "woow super mario is here try it now",
-            "showrate" : false
+            "showrate" : true
 
         
             
